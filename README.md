@@ -1,2 +1,2 @@
 # Journey
- Day 1 of coding
+ Day 1 of coding Java
